@@ -4,3 +4,4 @@ matplotlib
 Scikit-learn
 torch 
 torchvision
+torchsummary
